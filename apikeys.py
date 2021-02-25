@@ -1,0 +1,5 @@
+coinmarketAPI = "387cbc76-1b49-4c77-a5b6-b2e1264c4dae"
+binanceAPI = "gBaBbTivCwn47sgZBVn9uz9jq5ZIx3xUHqblZk7cJuVwQV8qVZp7rGJ50PihyoDH"
+binanceKEY = "SLgArBsM1777yvY2Hgkdi2TtAZ3D9ia303HGS3zK8her1yLsrsj2GfOus85lLIYJ"
+smsKEY = "9319ed5b"
+smsSECRET = "aplrMl4QWgMpXVdW"
